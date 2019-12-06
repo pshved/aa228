@@ -1,0 +1,4 @@
+agent_x,obstacle_y,action
+-100,-100,accelerate
+-70,-100,maintain
+-70,0.01,brake
